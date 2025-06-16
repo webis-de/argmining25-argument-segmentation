@@ -1,0 +1,18 @@
+beautifulsoup4==4.12.3
+charset-normalizer==3.3.2
+count-tokens==0.7.0
+google-generativeai==0.8.3
+huggingface-hub==0.25.2
+natsort==8.4.0
+nltk==3.8.1
+numpy==1.26.2
+openai==1.54.3
+pandas==2.0.1
+pytorch-pretrained-bert==0.6.2
+scikit-learn==1.4.1.post1
+scipy==1.12.0
+sentence-transformers==2.2.2
+targer-api==1.1.1
+transformers==4.38.1
+
+# python 3.10.13

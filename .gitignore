@@ -1,0 +1,13 @@
+*.pyc
+*.json
+*.csv
+*.xml
+*.qrel
+
+**/__pycache__
+
+.idea
+
+data/argsme_relevance
+src/clustering_smatchtopr_with_many_comments.py
+src/credentials.py
