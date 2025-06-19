@@ -11,6 +11,8 @@ Download the [UKP argument-classification model](https://public.ukp.informatik.t
 
 To get the file `key_points_all.csv` in `data/ibm_data/`, download all key points from the [IBM Key Point Analysis Shared Task](https://github.com/IBM/KPA_2021_shared_task/) ([train/dev](https://github.com/IBM/KPA_2021_shared_task/tree/main/kpm_data), [test](https://github.com/IBM/KPA_2021_shared_task/tree/main/test_data)) and collect them in a single file.
 
+Our annotated data and the segments created by PaLM and GPT-4 can be downloaded on [Zenodo](https://zenodo.org/records/14865977).
+
 ## Data
 The texts are taken from the args.me dataset ([Ajjour et al., 2019](https://dl.acm.org/doi/abs/10.1007/978-3-030-30179-8_4)) where arguments from different debater portals were crawled. 
 
